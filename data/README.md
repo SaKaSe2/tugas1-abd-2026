@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | Wikipedia Bahasa Indonesia — dump *stub meta history* `idwiki-20260901` |
+| Sumber | https://dumps.wikimedia.org/idwiki/20260901/ |
+| Lisensi/ketentuan pakai | Konten Wikipedia: CC BY-SA 4.0; dump tunduk pada Wikimedia Terms of Use (© Kontributor Wikipedia Bahasa Indonesia) |
+| Ukuran | File .gz 2,34 GB; hasil Parquet 1,96 GB / 27.771.250 baris (syarat: ≥500 MB atau >1.000.000 baris) |
+| Periode data | 24 Januari 2003 – 1 September 2026 |
+| Unit analisis | 1 baris = 1 revisi (edit) pada 1 halaman Wikipedia |
 
 ## Tempat Mencari Dataset
 
