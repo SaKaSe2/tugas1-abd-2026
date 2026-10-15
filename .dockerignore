@@ -1,0 +1,5 @@
+# Jangan masukkan data besar & metadata ke dalam build context image
+data/
+.git/
+output/
+.ipynb_checkpoints/
